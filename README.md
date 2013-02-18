@@ -1,5 +1,8 @@
 == Welcome to Rails
 
+This is a sample application built in capter 3 of learning rails
+
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
